@@ -1,0 +1,11 @@
+
+
+icon error
+
+https://stackoverflow.com/questions/51785616/import-error-when-using-react-icons
+
+npm install react-icons --save
+
+
+Code  
+https://www.geeksforgeeks.org/create-a-responsive-navbar-using-reactjs/
